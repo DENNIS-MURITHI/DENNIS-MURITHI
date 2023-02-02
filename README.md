@@ -1,2 +1,2 @@
-Front End Coud Developer
+Junior Front End Cloud Developer
 
