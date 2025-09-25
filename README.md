@@ -1,5 +1,5 @@
 
-
+![AI Avatar](https://unsplash.com/photos/a-digital-image-of-a-woman-standing-in-a-room-gT7ymNEQxUU)
 
 
 # 👋 Hi, I'm Dennis Murithi
