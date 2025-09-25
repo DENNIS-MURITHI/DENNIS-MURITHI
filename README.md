@@ -1,6 +1,5 @@
 
-![AI Avatar](https://unsplash.com/photos/a-digital-image-of-a-woman-standing-in-a-room-gT7ymNEQxUU)
-
+<img src="https://images.unsplash.com/photo-xxxxxxxxxxxxxxxxx?ixid=..." width="150" alt="AI Avatar"/>
 
 # 👋 Hi, I'm Dennis Murithi
 
