@@ -53,4 +53,4 @@ I build **web apps, analyze data, explore AI, and architect cloud solutions** �
 
 ---
 
-> ⚡ “Data-driven, code-savvy, AI-ready, and cloud-certified — building smart solutions step by step.”
+> ⚡ **“Data-driven, code-savvy, AI-ready, and cloud-certified — building smart solutions step by step.”**
