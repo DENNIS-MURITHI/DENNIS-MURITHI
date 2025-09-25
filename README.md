@@ -1,5 +1,4 @@
-
-<img src="https://images.unsplash.com/photo-xxxxxxxxxxxxxxxxx?ixid=..." width="150" alt="AI Avatar"/>
+![joshua-reddekopp-SyYmXSDnJ54-unsplash (1)](https://github.com/user-attachments/assets/b0294f1c-2507-4f05-b763-bec93ef03eff)
 
 # 👋 Hi, I'm Dennis Murithi
 
